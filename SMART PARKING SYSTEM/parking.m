@@ -1,9 +1,4 @@
-%PROGRAM FOR SMART PARKING SYSYTEM
-%made by - 
-%ABHISHEK KUMAR GUPTA  ITGGV BILASPUR
-%SHIVANGI VARSHNEY     JIIT NOIDA
-%SHREYA SINGH          MMMUT GORAKHPUR
-% ASHISH SINGH         AIT KANPUR
+
 
 image = imread('C:\Users\hp\Documents\MATLAB\car.jpg'); %To read Cars parked in parking area.
 background = imread('C:\Users\hp\Documents\MATLAB\bg.jpg'); %To read background image or initial image of parking area
